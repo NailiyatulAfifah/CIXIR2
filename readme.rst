@@ -1,7 +1,6 @@
-#CIXIR2
-
-Tampilan home (home.php)
+# CIXIR2
+Tampilan home
 ![alt text](https://github.com/NailiyatulAfifah/CIXIR2/blob/master/home.PNG?raw=true)
 
-Tampilan profil (data_diri.php)
+Tampilan profil
 ![alt text](https://github.com/NailiyatulAfifah/CIXIR2/blob/master/profil.PNG?raw=true)
